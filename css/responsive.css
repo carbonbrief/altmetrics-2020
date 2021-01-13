@@ -73,3 +73,9 @@
         width:375px;
     }
 }
+
+@media screen and (max-width: 320px) {
+    #wrapper{
+        width:320px;
+    }
+}
